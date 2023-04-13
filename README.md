@@ -1,6 +1,6 @@
 # omr-ifce
 
-### - to-do:
+### to-do:
 
 - [x] criar forma genérica de detectar âncoras
 - [ ] aumentar a espessura das linhas do retângulo externo (figma)
